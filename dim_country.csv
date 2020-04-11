@@ -1,0 +1,251 @@
+﻿Country_Number;Country_Name;Country_Short_Name;Two_Letter_Country_Code;Three_Letter_Country_Code;Country_COVID_Name;Continent_Name;Continent_Code;Country_Sub_Region;Country_Income_Group;Column1;Contry_Female_Population_2019;Contry_Male_Population_2019;Contry_Total_Population_2019
+4;Afghanistan, Islamic Republic of;Afghanistan;AF;AFG;Afghanistan;Asia;AS;South Asia;Low income;;18512030;19529727;38041757
+8;Albania, Republic of;Albania;AL;ALB;Albania;Europe;EU;Europe & Central Asia;Upper middle income;;1414128;1466785;2880913
+10;Antarctica (the territory South of 60 deg S);Antarctica (the territory South of 60 deg S);AQ;ATA;not_available_1;Antarctica;AN;;;;0;0;0
+12;Algeria, People's Democratic Republic of;Algeria;DZ;DZA;Algeria;Africa;AF;Middle East & North Africa;Upper middle income;;21303388;21749666;43053054
+16;American Samoa;American Samoa;AS;ASM;not_available_2;Oceania;OC;East Asia & Pacific;Upper middle income;;0;0;55312
+20;Andorra, Principality of;Andorra;AD;AND;Andorra;Europe;EU;Europe & Central Asia;High income;;0;0;77146
+24;Angola, Republic of;Angola;AO;AGO;Angola;Africa;AF;Sub-Saharan Africa;Upper middle income;;16080520;15744779;31825299
+28;Antigua and Barbuda;Antigua and Barbuda;AG;ATG;Antigua and Barbuda;North America;NA;Latin America & Caribbean;High income;;50264;46851;97115
+31;Azerbaijan, Republic of;Azerbaijan;AZ;AZE;Azerbaijan;Europe;EU;Europe & Central Asia;Upper middle income;;5031885;5015834;10047719
+32;Argentina, Argentine Republic;Argentina;AR;ARG;Argentina;South America;SA;Latin America & Caribbean;Upper middle income;;22939260;21841415;44780675
+36;Australia, Commonwealth of;Australia;AU;AUS;Australia;Oceania;OC;East Asia & Pacific;High income;;12651889;12551311;25203200
+40;Austria, Republic of;Austria;AT;AUT;Austria;Europe;EU;Europe & Central Asia;High income;;4545728;4409380;8955108
+44;Bahamas, Commonwealth of the;Bahamas;BS;BHS;Bahamas;North America;NA;Latin America & Caribbean;High income;;200256;189230;389486
+48;Bahrain, Kingdom of;Bahrain;BH;BHR;Bahrain;Asia;AS;Middle East & North Africa;High income;;586367;1054797;1641164
+50;Bangladesh, People's Republic of;Bangladesh;BD;BGD;Bangladesh;Asia;AS;South Asia;Lower middle income;;80572382;82473791;163046173
+51;Armenia, Republic of;Armenia;AM;ARM;Armenia;Europe;EU;Europe & Central Asia;Lower middle income;;1566459;1391269;2957728
+52;Barbados;Barbados;BB;BRB;Barbados;North America;NA;Latin America & Caribbean;High income;;148208;138813;287021
+56;Belgium, Kingdom of;Belgium;BE;BEL;Belgium;Europe;EU;Europe & Central Asia;High income;;5827847;5711479;11539326
+60;Bermuda;Bermuda;BM;BMU;not_available_3;North America;NA;North America;High income;;0;0;62508
+64;Bhutan, Kingdom of;Bhutan;BT;BTN;Bhutan;Asia;AS;South Asia;Lower middle income;;358062;405032;763094
+68;Bolivia, Republic of;Bolivia;BO;BOL;Bolivia;South America;SA;Latin America & Caribbean;Lower middle income;;5733491;5779611;11513102
+70;Bosnia and Herzegovina;Bosnia and Herzegovina;BA;BIH;Bosnia and Herzegovina;Europe;EU;Europe & Central Asia;Upper middle income;;1684199;1616799;3300998
+72;Botswana, Republic of;Botswana;BW;BWA;Botswana;Africa;AF;Sub-Saharan Africa;Upper middle income;;1189587;1114116;2303703
+74;Bouvet Island (Bouvetoya);Bouvet Island (Bouvetoya);BV;BVT;not_available_4;Antarctica;AN;;;;0;0;0
+76;Brazil, Federative Republic of;Brazil;BR;BRA;Brazil;South America;SA;Latin America & Caribbean;Upper middle income;;107316359;103733160;211049519
+84;Belize;Belize;BZ;BLZ;Belize;North America;NA;Latin America & Caribbean;Upper middle income;;196070;194281;390351
+86;British Indian Ocean Territory (Chagos Archipelago);British Indian Ocean Territory (Chagos Archipelago);IO;IOT;not_available_5;Asia;AS;;;;0;0;0
+90;Solomon Islands;Solomon Islands;SB;SLB;not_available_6;Oceania;OC;East Asia & Pacific;Lower middle income;;329239;340582;669821
+92;British Virgin Islands;British Virgin Islands;VG;VGB;not_available_7;North America;NA;Latin America & Caribbean;High income;;0;0;30033
+96;Brunei Darussalam;Brunei Darussalam;BN;BRN;Brunei;Asia;AS;East Asia & Pacific;High income;;208314;224982;433296
+100;Bulgaria, Republic of;Bulgaria;BG;BGR;Bulgaria;Europe;EU;Europe & Central Asia;Upper middle income;;3600063;3400054;7000117
+104;Myanmar, Union of;Myanmar;MM;MMR;Burma;Asia;AS;East Asia & Pacific;Lower middle income;;28000756;26044666;54045422
+108;Burundi, Republic of;Burundi;BI;BDI;Burundi;Africa;AF;Sub-Saharan Africa;Low income;;5811589;5718988;11530577
+112;Belarus, Republic of;Belarus;BY;BLR;Belarus;Europe;EU;Europe & Central Asia;Upper middle income;;5052496;4399913;9452409
+116;Cambodia, Kingdom of;Cambodia;KH;KHM;Cambodia;Asia;AS;East Asia & Pacific;Lower middle income;;8439178;8047364;16486542
+120;Cameroon, Republic of;Cameroon;CM;CMR;Cameroon;Africa;AF;Sub-Saharan Africa;Lower middle income;;12936459;12939928;25876387
+124;Canada;Canada;CA;CAN;Canada;North America;NA;North America;High income;;18847500;18563538;37411038
+132;Cape Verde, Republic of;Cape Verde;CV;CPV;Cabo Verde;Africa;AF;Sub-Saharan Africa;Lower middle income;;273900;276036;549936
+136;Cayman Islands;Cayman Islands;KY;CYM;not_available_8;North America;NA;Latin America & Caribbean;High income;;0;0;64948
+140;Central African Republic;Central African Republic;CF;CAF;Central African Republic;Africa;AF;Sub-Saharan Africa;Low income;;2393206;2351973;4745179
+144;Sri Lanka, Democratic Socialist Republic of;Sri Lanka;LK;LKA;Sri Lanka;Asia;AS;South Asia;Lower middle income;;11090319;10233415;21323734
+148;Chad, Republic of;Chad;TD;TCD;Chad;Africa;AF;Sub-Saharan Africa;Low income;;7986360;7960522;15946882
+152;Chile, Republic of;Chile;CL;CHL;Chile;South America;SA;Latin America & Caribbean;High income;;9610261;9341774;18952035
+156;China, People's Republic of;China;CN;CHN;China;Asia;AS;East Asia & Pacific;Upper middle income;;698159433;735624259;1433783692
+158;Taiwan;Taiwan;TW;TWN;Taiwan*;Asia;AS;;;;11949758;11824123;23773881
+162;Christmas Island;Christmas Island;CX;CXR;not_available_9;Asia;AS;;;;0;0;0
+166;Cocos (Keeling) Islands;Cocos (Keeling) Islands;CC;CCK;not_available_10;Asia;AS;;;;0;0;0
+170;Colombia, Republic of;Colombia;CO;COL;Colombia;South America;SA;Latin America & Caribbean;Upper middle income;;25626250;24713193;50339443
+174;Comoros, Union of the;Comoros;KM;COM;not_available_11;Africa;AF;Sub-Saharan Africa;Low income;;421681;429210;850891
+175;Mayotte;Mayotte;YT;MYT;not_available_12;Africa;AF;;;;135288;130865;266153
+178;Congo, Republic of the;Congo;CG;COG;Congo (Brazzaville);Africa;AF;Sub-Saharan Africa;Lower middle income;;2693146;2687358;5380504
+180;Congo, Democratic Republic of the;Congo;CD;COD;Congo (Kinshasa);Africa;AF;Sub-Saharan Africa;Low income;;43471465;43319103;86790568
+184;Cook Islands;Cook Islands;CK;COK;not_available_13;Oceania;OC;;;;0;0;17547
+188;Costa Rica, Republic of;Costa Rica;CR;CRI;Costa Rica;North America;NA;Latin America & Caribbean;Upper middle income;;2525022;2522539;5047561
+191;Croatia, Republic of;Croatia;HR;HRV;Croatia;Europe;EU;Europe & Central Asia;High income;;2140284;1990015;4130299
+192;Cuba, Republic of;Cuba;CU;CUB;Cuba;North America;NA;Latin America & Caribbean;Upper middle income;;5705556;5627928;11333484
+196;Cyprus, Republic of;Cyprus;CY;CYP;Cyprus;Europe;EU;Europe & Central Asia;High income;;599277;599297;1198574
+203;Czech Republic;Czech Republic;CZ;CZE;Czechia;Europe;EU;Europe & Central Asia;High income;;5428585;5260628;10689213
+204;Benin, Republic of;Benin;BJ;BEN;Benin;Africa;AF;Sub-Saharan Africa;Low income;;5909895;5891256;11801151
+208;Denmark, Kingdom of;Denmark;DK;DNK;Denmark;Europe;EU;Europe & Central Asia;High income;;2902205;2869672;5771877
+212;Dominica, Commonwealth of;Dominica;DM;DMA;Dominica;North America;NA;Latin America & Caribbean;Upper middle income;;0;0;71808
+214;Dominican Republic;Dominican Republic;DO;DOM;Dominican Republic;North America;NA;Latin America & Caribbean;Upper middle income;;5372759;5366198;10738957
+218;Ecuador, Republic of;Ecuador;EC;ECU;Ecuador;South America;SA;Latin America & Caribbean;Upper middle income;;8683170;8690487;17373657
+222;El Salvador, Republic of;El Salvador;SV;SLV;El Salvador;North America;NA;Latin America & Caribbean;Lower middle income;;3430197;3023353;6453550
+226;Equatorial Guinea, Republic of;Equatorial Guinea;GQ;GNQ;Equatorial Guinea;Africa;AF;Sub-Saharan Africa;Upper middle income;;602159;753823;1355982
+231;Ethiopia, Federal Democratic Republic of;Ethiopia;ET;ETH;Ethiopia;Africa;AF;Sub-Saharan Africa;Low income;;56009719;56069008;112078727
+232;Eritrea, State of;Eritrea;ER;ERI;Eritrea;Africa;AF;Sub-Saharan Africa;Low income;;1744406;1752711;3497117
+233;Estonia, Republic of;Estonia;EE;EST;Estonia;Europe;EU;Europe & Central Asia;High income;;699023;626626;1325649
+234;Faroe Islands;Faroe Islands;FO;FRO;not_available_14;Europe;EU;Europe & Central Asia;High income;;0;0;48677
+238;Falkland Islands (Malvinas);Falkland Islands (Malvinas);FK;FLK;not_available_15;South America;SA;;;;0;0;3372
+239;South Georgia and the South Sandwich Islands;South Georgia and the South Sandwich Islands;GS;SGS;not_available_16;Antarctica;AN;;;;0;0;0
+242;Fiji, Republic of the Fiji Islands;Fiji;FJ;FJI;Fiji;Oceania;OC;East Asia & Pacific;Upper middle income;;438996;450959;889955
+246;Finland, Republic of;Finland;FI;FIN;Finland;Europe;EU;Europe & Central Asia;High income;;2804949;2727210;5532159
+248;Åland Islands;Åland Islands;AX;ALA;not_available_17;Europe;EU;;;;0;0;0
+250;France, French Republic;France;FR;FRA;France;Europe;EU;Europe & Central Asia;High income;;33605237;31524494;65129731
+254;French Guiana;French Guiana;GF;GUF;not_available_18;South America;SA;;;;147057;143766;290823
+258;French Polynesia;French Polynesia;PF;PYF;not_available_19;Oceania;OC;East Asia & Pacific;High income;;137793;141492;279285
+260;French Southern Territories;French Southern Territories;TF;ATF;not_available_20;Antarctica;AN;;;;0;0;0
+262;Djibouti, Republic of;Djibouti;DJ;DJI;Djibouti;Africa;AF;Middle East & North Africa;Lower middle income;;461610;511947;973557
+266;Gabon, Gabonese Republic;Gabon;GA;GAB;Gabon;Africa;AF;Sub-Saharan Africa;Upper middle income;;1066386;1106192;2172578
+268;Georgia;Georgia;GE;GEO;Georgia;Europe;EU;Europe & Central Asia;Upper middle income;;2091019;1905743;3996762
+270;Gambia, Republic of the;Gambia;GM;GMB;Gambia;Africa;AF;Sub-Saharan Africa;Low income;;1183332;1164364;2347696
+275;Palestinian Territory, Occupied;Palestinian Territory;PS;PSE;not_available_21;Asia;AS;Middle East & North Africa;Lower middle income;;2455072;2526350;4981422
+276;Germany, Federal Republic of;Germany;DE;DEU;Germany;Europe;EU;Europe & Central Asia;High income;;42267931;41249115;83517046
+288;Ghana, Republic of;Ghana;GH;GHA;Ghana;Africa;AF;Sub-Saharan Africa;Lower middle income;;15001772;15416086;30417858
+292;Gibraltar;Gibraltar;GI;GIB;not_available_22;Europe;EU;Europe & Central Asia;High income;;0;0;33706
+296;Kiribati, Republic of;Kiribati;KI;KIR;not_available_23;Oceania;OC;East Asia & Pacific;Lower middle income;;59786;57822;117608
+300;Greece, Hellenic Republic;Greece;GR;GRC;Greece;Europe;EU;Europe & Central Asia;High income;;5332932;5140520;10473452
+304;Greenland;Greenland;GL;GRL;not_available_24;North America;NA;Europe & Central Asia;High income;;0;0;56660
+308;Grenada;Grenada;GD;GRD;Grenada;North America;NA;Latin America & Caribbean;Upper middle income;;55576;56426;112002
+312;Guadeloupe;Guadeloupe;GP;GLP;not_available_25;North America;NA;;;;215362;184686;400048
+316;Guam;Guam;GU;GUM;not_available_26;Oceania;OC;East Asia & Pacific;High income;;82858;84437;167295
+320;Guatemala, Republic of;Guatemala;GT;GTM;Guatemala;North America;NA;Latin America & Caribbean;Lower middle income;;8921526;8659950;17581476
+324;Guinea, Republic of;Guinea;GN;GIN;Guinea;Africa;AF;Sub-Saharan Africa;Low income;;6605171;6166075;12771246
+328;Guyana, Co-operative Republic of;Guyana;GY;GUY;Guyana;South America;SA;Latin America & Caribbean;Upper middle income;;389504;393271;782775
+332;Haiti, Republic of;Haiti;HT;HTI;Haiti;North America;NA;Latin America & Caribbean;Low income;;5705483;5557596;11263079
+334;Heard Island and McDonald Islands;Heard Island and McDonald Islands;HM;HMD;not_available_27;Antarctica;AN;;;;0;0;0
+336;Holy See (Vatican City State);Holy See (Vatican City State);VA;VAT;Holy See;Europe;EU;;;;0;0;815
+340;Honduras, Republic of;Honduras;HN;HND;Honduras;North America;NA;Latin America & Caribbean;Lower middle income;;4877121;4868994;9746115
+344;Hong Kong, Special Administrative Region of China;Hong Kong;HK;HKG;not_available_28;Asia;AS;East Asia & Pacific;High income;;4017670;3418487;7436157
+348;Hungary, Republic of;Hungary;HU;HUN;Hungary;Europe;EU;Europe & Central Asia;High income;;5076430;4608250;9684680
+352;Iceland, Republic of;Iceland;IS;ISL;Iceland;Europe;EU;Europe & Central Asia;High income;;168807;170230;339037
+356;India, Republic of;India;IN;IND;India;Asia;AS;South Asia;Lower middle income;;656288184;710129572;1366417756
+360;Indonesia, Republic of;Indonesia;ID;IDN;Indonesia;Asia;AS;East Asia & Pacific;Lower middle income;;134355806;136269761;270625567
+364;Iran, Islamic Republic of;Iran;IR;IRN;Iran;Asia;AS;Middle East & North Africa;Upper middle income;;41024003;41889890;82913893
+368;Iraq, Republic of;Iraq;IQ;IRQ;Iraq;Asia;AS;Middle East & North Africa;Upper middle income;;19417975;19891814;39309789
+372;Ireland;Ireland;IE;IRL;Ireland;Europe;EU;Europe & Central Asia;High income;;2460080;2422418;4882498
+376;Israel, State of;Israel;IL;ISR;Israel;Asia;AS;Middle East & North Africa;High income;;4282046;4237327;8519373
+380;Italy, Italian Republic;Italy;IT;ITA;Italy;Europe;EU;Europe & Central Asia;High income;;31089057;29461035;60550092
+384;Cote d'Ivoire, Republic of;Cote d'Ivoire;CI;CIV;Cote d'Ivoire;Africa;AF;Sub-Saharan Africa;Lower middle income;;12742348;12974206;25716554
+388;Jamaica;Jamaica;JM;JAM;Jamaica;North America;NA;Latin America & Caribbean;Upper middle income;;1484557;1463720;2948277
+392;Japan;Japan;JP;JPN;Japan;Asia;AS;East Asia & Pacific;High income;;64909989;61950310;126860299
+398;Kazakhstan, Republic of;Kazakhstan;KZ;KAZ;Kazakhstan;Europe;EU;Europe & Central Asia;Upper middle income;;9551674;8999754;18551428
+400;Jordan, Hashemite Kingdom of;Jordan;JO;JOR;Jordan;Asia;AS;Middle East & North Africa;Upper middle income;;4988482;5113215;10101697
+404;Kenya, Republic of;Kenya;KE;KEN;Kenya;Africa;AF;Sub-Saharan Africa;Lower middle income;;26451585;26122382;52573967
+408;Korea, Democratic People's Republic of;Korea;KP;PRK;not_available_29;Asia;AS;East Asia & Pacific;Low income;;13113396;12552762;25666158
+410;Korea, Republic of;Korea;KR;KOR;Korea, South;Asia;AS;East Asia & Pacific;High income;;25575864;25649457;51225321
+414;Kuwait, State of;Kuwait;KW;KWT;Kuwait;Asia;AS;Middle East & North Africa;High income;;1644022;2563055;4207077
+417;Kyrgyz Republic;Kyrgyz Republic;KG;KGZ;Kyrgyzstan;Asia;AS;Europe & Central Asia;Lower middle income;;3241949;3173902;6415851
+418;Lao People's Democratic Republic;Lao People's Democratic Republic;LA;LAO;Laos;Asia;AS;East Asia & Pacific;Lower middle income;;3570428;3599028;7169456
+422;Lebanon, Lebanese Republic;Lebanon;LB;LBN;Lebanon;Asia;AS;Middle East & North Africa;Upper middle income;;3406463;3449246;6855709
+426;Lesotho, Kingdom of;Lesotho;LS;LSO;not_available_30;Africa;AF;Sub-Saharan Africa;Lower middle income;;1077323;1047944;2125267
+428;Latvia, Republic of;Latvia;LV;LVA;Latvia;Europe;EU;Europe & Central Asia;High income;;1028792;877948;1906740
+430;Liberia, Republic of;Liberia;LR;LBR;Liberia;Africa;AF;Sub-Saharan Africa;Low income;;2456258;2481116;4937374
+434;Libyan Arab Jamahiriya;Libyan Arab Jamahiriya;LY;LBY;Libya;Africa;AF;Middle East & North Africa;Upper middle income;;3354834;3422619;6777453
+438;Liechtenstein, Principality of;Liechtenstein;LI;LIE;Liechtenstein;Europe;EU;Europe & Central Asia;High income;;0;0;38020
+440;Lithuania, Republic of;Lithuania;LT;LTU;Lithuania;Europe;EU;Europe & Central Asia;High income;;1483154;1276477;2759631
+442;Luxembourg, Grand Duchy of;Luxembourg;LU;LUX;Luxembourg;Europe;EU;Europe & Central Asia;High income;;304620;311110;615730
+446;Macao, Special Administrative Region of China;Macao;MO;MAC;not_available_31;Asia;AS;East Asia & Pacific;High income;;332740;307706;640446
+450;Madagascar, Republic of;Madagascar;MG;MDG;Madagascar;Africa;AF;Sub-Saharan Africa;Low income;;13516377;13452929;26969306
+454;Malawi, Republic of;Malawi;MW;MWI;Malawi;Africa;AF;Sub-Saharan Africa;Low income;;9443471;9185278;18628749
+458;Malaysia;Malaysia;MY;MYS;Malaysia;Asia;AS;East Asia & Pacific;Upper middle income;;15526625;16423164;31949789
+462;Maldives, Republic of;Maldives;MV;MDV;Maldives;Asia;AS;South Asia;Upper middle income;;194887;336070;530957
+466;Mali, Republic of;Mali;ML;MLI;Mali;Africa;AF;Sub-Saharan Africa;Low income;;9813486;9844537;19658023
+470;Malta, Republic of;Malta;MT;MLT;Malta;Europe;EU;Middle East & North Africa;High income;;219594;220783;440377
+474;Martinique;Martinique;MQ;MTQ;not_available_32;North America;NA;;;;202585;172972;375557
+478;Mauritania, Islamic Republic of;Mauritania;MR;MRT;Mauritania;Africa;AF;Sub-Saharan Africa;Lower middle income;;2253855;2271843;4525698
+480;Mauritius, Republic of;Mauritius;MU;MUS;Mauritius;Africa;AF;Sub-Saharan Africa;Upper middle income;;642699;626971;1269670
+484;Mexico, United Mexican States;Mexico;MX;MEX;Mexico;North America;NA;Latin America & Caribbean;Upper middle income;;65172136;62403393;127575529
+492;Monaco, Principality of;Monaco;MC;MCO;Monaco;Europe;EU;Europe & Central Asia;High income;;0;0;38967
+496;Mongolia;Mongolia;MN;MNG;Mongolia;Asia;AS;East Asia & Pacific;Lower middle income;;1635234;1589932;3225166
+498;Moldova, Republic of;Moldova;MD;MDA;Moldova;Europe;EU;Europe & Central Asia;Lower middle income;;2105410;1937848;4043258
+499;Montenegro, Republic of;Montenegro;ME;MNE;Montenegro;Europe;EU;Europe & Central Asia;Upper middle income;;317482;310506;627988
+500;Montserrat;Montserrat;MS;MSR;not_available_33;North America;NA;;;;0;0;4991
+504;Morocco, Kingdom of;Morocco;MA;MAR;Morocco;Africa;AF;Middle East & North Africa;Lower middle income;;18378703;18093063;36471766
+508;Mozambique, Republic of;Mozambique;MZ;MOZ;Mozambique;Africa;AF;Sub-Saharan Africa;Low income;;15620192;14745851;30366043
+512;Oman, Sultanate of;Oman;OM;OMN;Oman;Asia;AS;Middle East & North Africa;High income;;1690544;3284448;4974992
+516;Namibia, Republic of;Namibia;NA;NAM;Namibia;Africa;AF;Sub-Saharan Africa;Upper middle income;;1285662;1208862;2494524
+520;Nauru, Republic of;Nauru;NR;NRU;not_available_34;Oceania;OC;East Asia & Pacific;High income;;0;0;10764
+524;Nepal, State of;Nepal;NP;NPL;Nepal;Asia;AS;South Asia;Low income;;15561762;13046953;28608715
+528;Netherlands, Kingdom of the;Netherlands;NL;NLD;Netherlands;Europe;EU;Europe & Central Asia;High income;;8582288;8514835;17097123
+530;Netherlands Antilles;Netherlands Antilles;AN;ANT;not_available_35;North America;NA;;;;0;0;0
+531;Curaçao;Curaçao;CW;CUW;not_available_36;North America;NA;Latin America & Caribbean;High income;;88339;75084;163423
+533;Aruba;Aruba;AW;ABW;not_available_37;North America;NA;Latin America & Caribbean;High income;;55867;50443;106310
+534;Sint Maarten (Netherlands);Sint Maarten (Netherlands);SX;SXM;not_available_38;North America;NA;Latin America & Caribbean;High income;;0;0;42389
+535;Bonaire, Sint Eustatius and Saba;Bonaire;BQ;BES;not_available_39;North America;NA;;;;0;0;25983
+540;New Caledonia;New Caledonia;NC;NCL;not_available_40;Oceania;OC;East Asia & Pacific;High income;;140531;142226;282757
+548;Vanuatu, Republic of;Vanuatu;VU;VUT;not_available_41;Oceania;OC;East Asia & Pacific;Lower middle income;;147844;152038;299882
+554;New Zealand;New Zealand;NZ;NZL;New Zealand;Oceania;OC;East Asia & Pacific;High income;;2431900;2351162;4783062
+558;Nicaragua, Republic of;Nicaragua;NI;NIC;Nicaragua;North America;NA;Latin America & Caribbean;Lower middle income;;3319519;3225984;6545503
+562;Niger, Republic of;Niger;NE;NER;Niger;Africa;AF;Sub-Saharan Africa;Low income;;11596258;11714461;23310719
+566;Nigeria, Federal Republic of;Nigeria;NG;NGA;Nigeria;Africa;AF;Sub-Saharan Africa;Lower middle income;;99131729;101831874;200963603
+570;Niue;Niue;NU;NIU;not_available_42;Oceania;OC;;;;0;0;1614
+574;Norfolk Island;Norfolk Island;NF;NFK;not_available_43;Oceania;OC;;;;0;0;0
+578;Norway, Kingdom of;Norway;NO;NOR;Norway;Europe;EU;Europe & Central Asia;High income;;2662047;2716812;5378859
+580;Northern Mariana Islands, Commonwealth of the;Northern Mariana Islands;MP;MNP;not_available_44;Oceania;OC;East Asia & Pacific;High income;;0;0;57213
+581;United States Minor Outlying Islands;United States Minor Outlying Islands;UM;UMI;not_available_45;Oceania;OC;;;;0;0;0
+583;Micronesia, Federated States of;Micronesia;FM;FSM;not_available_46;Oceania;OC;East Asia & Pacific;Lower middle income;;55944;57867;113811
+584;Marshall Islands, Republic of the;Marshall Islands;MH;MHL;not_available_47;Oceania;OC;East Asia & Pacific;Upper middle income;;0;0;58791
+585;Palau, Republic of;Palau;PW;PLW;not_available_48;Oceania;OC;East Asia & Pacific;Upper middle income;;0;0;18001
+586;Pakistan, Islamic Republic of;Pakistan;PK;PAK;Pakistan;Asia;AS;South Asia;Lower middle income;;105117736;111447581;216565317
+591;Panama, Republic of;Panama;PA;PAN;Panama;North America;NA;Latin America & Caribbean;Upper middle income;;2120006;2126434;4246440
+598;Papua New Guinea, Independent State of;Papua New Guinea;PG;PNG;Papua New Guinea;Oceania;OC;East Asia & Pacific;Lower middle income;;4296108;4480011;8776119
+600;Paraguay, Republic of;Paraguay;PY;PRY;Paraguay;South America;SA;Latin America & Caribbean;Upper middle income;;3463751;3580888;7044639
+604;Peru, Republic of;Peru;PE;PER;Peru;South America;SA;Latin America & Caribbean;Upper middle income;;16362221;16148241;32510462
+608;Philippines, Republic of the;Philippines;PH;PHL;Philippines;Asia;AS;East Asia & Pacific;Lower middle income;;53800550;54316072;108116622
+612;Pitcairn Islands;Pitcairn Islands;PN;PCN;not_available_49;Oceania;OC;;;;0;0;0
+616;Poland, Republic of;Poland;PL;POL;Poland;Europe;EU;Europe & Central Asia;High income;;19527232;18360539;37887771
+620;Portugal, Portuguese Republic;Portugal;PT;PRT;Portugal;Europe;EU;Europe & Central Asia;High income;;5389504;4836674;10226178
+624;Guinea-Bissau, Republic of;Guinea-Bissau;GW;GNB;Guinea-Bissau;Africa;AF;Sub-Saharan Africa;Low income;;982054;938863;1920917
+626;Timor-Leste, Democratic Republic of;Timor-Leste;TL;TLS;Timor-Leste;Asia;AS;East Asia & Pacific;Lower middle income;;639613;653507;1293120
+630;Puerto Rico, Commonwealth of;Puerto Rico;PR;PRI;not_available_50;North America;NA;Latin America & Caribbean;High income;;1541438;1391966;2933404
+634;Qatar, State of;Qatar;QA;QAT;Qatar;Asia;AS;Middle East & North Africa;High income;;698550;2133521;2832071
+638;Reunion;Reunion;RE;REU;not_available_51;Africa;AF;;;;458648;430284;888932
+642;Romania;Romania;RO;ROU;Romania;Europe;EU;Europe & Central Asia;Upper middle income;;9946271;9418287;19364558
+643;Russian Federation;Russian Federation;RU;RUS;Russia;Europe;EU;Europe & Central Asia;Upper middle income;;78269320;67602940;145872260
+646;Rwanda, Republic of;Rwanda;RW;RWA;Rwanda;Africa;AF;Sub-Saharan Africa;Low income;;6420852;6206086;12626938
+652;Saint Barthelemy;Saint Barthelemy;BL;BLM;not_available_52;North America;NA;;;;0;0;9853
+654;Saint Helena;Saint Helena;SH;SHN;not_available_53;Africa;AF;;;;0;0;6061
+659;Saint Kitts and Nevis, Federation of;Saint Kitts and Nevis;KN;KNA;Saint Kitts and Nevis;North America;NA;Latin America & Caribbean;High income;;0;0;52834
+660;Anguilla;Anguilla;AI;AIA;not_available_54;North America;NA;;;;0;0;14872
+662;Saint Lucia;Saint Lucia;LC;LCA;Saint Lucia;North America;NA;Latin America & Caribbean;Upper middle income;;92774;90021;182795
+663;Saint Martin;Saint Martin;MF;MAF;not_available_55;North America;NA;Latin America & Caribbean;High income;;0;0;38002
+666;Saint Pierre and Miquelon;Saint Pierre and Miquelon;PM;SPM;not_available_56;North America;NA;;;;0;0;5821
+670;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;VC;VCT;Saint Vincent and the Grenadines;North America;NA;Latin America & Caribbean;Upper middle income;;54496;56097;110593
+674;San Marino, Republic of;San Marino;SM;SMR;San Marino;Europe;EU;Europe & Central Asia;High income;;0;0;33864
+678;Sao Tome and Principe, Democratic Republic of;Sao Tome and Principe;ST;STP;Sao Tome and Principe;Africa;AF;Sub-Saharan Africa;Lower middle income;;107437;107611;215048
+682;Saudi Arabia, Kingdom of;Saudi Arabia;SA;SAU;Saudi Arabia;Asia;AS;Middle East & North Africa;High income;;14484997;19783532;34268529
+686;Senegal, Republic of;Senegal;SN;SEN;Senegal;Africa;AF;Sub-Saharan Africa;Low income;;8349929;7946433;16296362
+688;Serbia, Republic of;Serbia;RS;SRB;Serbia;Europe;EU;Europe & Central Asia;Upper middle income;;4474784;4297444;8772228
+690;Seychelles, Republic of;Seychelles;SC;SYC;Seychelles;Africa;AF;Sub-Saharan Africa;High income;;47574;50167;97741
+694;Sierra Leone, Republic of;Sierra Leone;SL;SLE;Sierra Leone;Africa;AF;Sub-Saharan Africa;Low income;;3914857;3898350;7813207
+702;Singapore, Republic of;Singapore;SG;SGP;Singapore;Asia;AS;East Asia & Pacific;High income;;2766117;3038226;5804343
+703;Slovakia (Slovak Republic);Slovakia (Slovak Republic);SK;SVK;Slovakia;Europe;EU;Europe & Central Asia;High income;;2800499;2656513;5457012
+704;Vietnam, Socialist Republic of;Vietnam;VN;VNM;Vietnam;Asia;AS;East Asia & Pacific;Lower middle income;;48310756;48151352;96462108
+705;Slovenia, Republic of;Slovenia;SI;SVN;Slovenia;Europe;EU;Europe & Central Asia;High income;;1043970;1034684;2078654
+706;Somalia, Somali Republic;Somalia;SO;SOM;Somalia;Africa;AF;Sub-Saharan Africa;Low income;;7742710;7700196;15442906
+710;South Africa, Republic of;South Africa;ZA;ZAF;South Africa;Africa;AF;Sub-Saharan Africa;Upper middle income;;29698965;28859302;58558267
+716;Zimbabwe, Republic of;Zimbabwe;ZW;ZWE;Zimbabwe;Africa;AF;Sub-Saharan Africa;Low income;;7662120;6983353;14645473
+724;Spain, Kingdom of;Spain;ES;ESP;Spain;Europe;EU;Europe & Central Asia;High income;;23776134;22960648;46736782
+728;South Sudan;South Sudan;SS;SSD;South Sudan;Africa;AF;Sub-Saharan Africa;Low income;;5525584;5536530;11062114
+732;Western Sahara;Western Sahara;EH;ESH;Western Sahara;Africa;AF;;;;277703;304755;582458
+736;Sudan, Republic of;Sudan;SD;SDN;Sudan;Africa;AF;Sub-Saharan Africa;Lower middle income;;0;0;0
+740;Suriname, Republic of;Suriname;SR;SUR;Suriname;South America;SA;Latin America & Caribbean;Upper middle income;;289108;292255;581363
+744;Svalbard & Jan Mayen Islands;Svalbard & Jan Mayen Islands;SJ;SJM;not_available_57;Europe;EU;;;;0;0;0
+748;Swaziland, Kingdom of;Swaziland;SZ;SWZ;Eswatini;Africa;AF;Sub-Saharan Africa;Lower middle income;;585343;562790;1148133
+752;Sweden, Kingdom of;Sweden;SE;SWE;Sweden;Europe;EU;Europe & Central Asia;High income;;5010794;5025597;10036391
+756;Switzerland, Swiss Confederation;Switzerland;CH;CHE;Switzerland;Europe;EU;Europe & Central Asia;High income;;4330700;4260661;8591361
+760;Syrian Arab Republic;Syrian Arab Republic;SY;SYR;Syria;Asia;AS;Middle East & North Africa;Lower middle income;;8515582;8554550;17070132
+762;Tajikistan, Republic of;Tajikistan;TJ;TJK;not_available_58;Asia;AS;Europe & Central Asia;Lower middle income;;4623070;4697953;9321023
+764;Thailand, Kingdom of;Thailand;TH;THA;Thailand;Asia;AS;East Asia & Pacific;Upper middle income;;35720735;33904846;69625581
+768;Togo, Togolese Republic;Togo;TG;TGO;Togo;Africa;AF;Sub-Saharan Africa;Low income;;4061713;4020646;8082359
+772;Tokelau;Tokelau;TK;TKL;not_available_59;Oceania;OC;;;;0;0;1330
+776;Tonga, Kingdom of;Tonga;TO;TON;not_available_60;Oceania;OC;East Asia & Pacific;Lower middle income;;52211;52286;104497
+780;Trinidad and Tobago, Republic of;Trinidad and Tobago;TT;TTO;Trinidad and Tobago;North America;NA;Latin America & Caribbean;High income;;705987;688982;1394969
+784;United Arab Emirates;United Arab Emirates;AE;ARE;United Arab Emirates;Asia;AS;Middle East & North Africa;High income;;3003720;6766806;9770526
+788;Tunisia, Tunisian Republic;Tunisia;TN;TUN;Tunisia;Africa;AF;Middle East & North Africa;Lower middle income;;5896741;5797980;11694721
+792;Turkey, Republic of;Turkey;TR;TUR;Turkey;Europe;EU;Europe & Central Asia;Upper middle income;;42255898;41173709;83429607
+795;Turkmenistan;Turkmenistan;TM;TKM;not_available_61;Asia;AS;Europe & Central Asia;Upper middle income;;3016406;2925688;5942094
+796;Turks and Caicos Islands;Turks and Caicos Islands;TC;TCA;not_available_62;North America;NA;Latin America & Caribbean;High income;;0;0;38194
+798;Tuvalu;Tuvalu;TV;TUV;not_available_63;Oceania;OC;East Asia & Pacific;Upper middle income;;0;0;11655
+800;Uganda, Republic of;Uganda;UG;UGA;Uganda;Africa;AF;Sub-Saharan Africa;Low income;;22462421;21807166;44269587
+804;Ukraine;Ukraine;UA;UKR;Ukraine;Europe;EU;Europe & Central Asia;Lower middle income;;23614620;20379023;43993643
+807;Macedonia, The Former Yugoslav Republic of;Macedonia;MK;MKD;North Macedonia;Europe;EU;Europe & Central Asia;Upper middle income;;1041153;1042305;2083458
+818;Egypt, Arab Republic of;Egypt;EG;EGY;Egypt;Africa;AF;Middle East & North Africa;Lower middle income;;49665477;50722599;100388076
+826;United Kingdom of Great Britain & Northern Ireland;United Kingdom of Great Britain & Northern Ireland;GB;GBR;United Kingdom;Europe;EU;Europe & Central Asia;High income;;34178726;33351435;67530161
+831;Guernsey, Bailiwick of;Guernsey;GG;GGY;not_available_64;Europe;EU;;;;0;0;0
+832;Jersey, Bailiwick of;Jersey;JE;JEY;not_available_65;Europe;EU;;;;0;0;0
+833;Isle of Man;Isle of Man;IM;IMN;not_available_66;Europe;EU;Europe & Central Asia;High income;;0;0;84589
+834;Tanzania, United Republic of;Tanzania;TZ;TZA;Tanzania;Africa;AF;Sub-Saharan Africa;Low income;;29024840;28980621;58005461
+840;United States of America;United States of America;US;USA;US;North America;NA;North America;High income;;166238618;162826299;329064917
+850;United States Virgin Islands;United States Virgin Islands;VI;VIR;not_available_67;North America;NA;Latin America & Caribbean;High income;;54875;49704;104579
+854;Burkina Faso;Burkina Faso;BF;BFA;Burkina Faso;Africa;AF;Sub-Saharan Africa;Low income;;10173609;10147774;20321383
+858;Uruguay, Eastern Republic of;Uruguay;UY;URY;Uruguay;South America;SA;Latin America & Caribbean;High income;;1789842;1671889;3461731
+860;Uzbekistan, Republic of;Uzbekistan;UZ;UZB;Uzbekistan;Asia;AS;Europe & Central Asia;Lower middle income;;16531599;16450116;32981715
+862;Venezuela, Bolivarian Republic of;Venezuela;VE;VEN;Venezuela;South America;SA;Latin America & Caribbean;Upper middle income;;14470601;14045228;28515829
+876;Wallis and Futuna;Wallis and Futuna;WF;WLF;not_available_68;Oceania;OC;;;;0;0;11436
+882;Samoa, Independent State of;Samoa;WS;WSM;not_available_69;Oceania;OC;East Asia & Pacific;Lower middle income;;95089;102004;197093
+887;Yemen;Yemen;YE;YEM;not_available_70;Asia;AS;Middle East & North Africa;Lower middle income;;14469638;14692284;29161922
+894;Zambia, Republic of;Zambia;ZM;ZMB;Zambia;Africa;AF;Sub-Saharan Africa;Lower middle income;;9017820;8843214;17861034
